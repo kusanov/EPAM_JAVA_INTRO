@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Students>
+    <Student>
+        <Name>Ivan</Name>
+        <Lastname>Ivanov</Lastname>
+        <Sex>Male</Sex>
+        <Address>Grodno</Address>
+        <Faculty>Java Web Development</Faculty>
+    </Student>
+    <Student>
+        <Name>Serg</Name>
+        <Lastname>KUSAN</Lastname>
+        <Sex>Male</Sex>
+        <Address>Minsk</Address>
+        <Faculty>Java Web Development</Faculty>
+    </Student>
+</Students>
